@@ -12,6 +12,7 @@ Bug reports and feature suggestions keep the project alive too!
 * Metrics: https://bstats.org/plugin/bukkit/BountyHunters
 * Wiki: https://github.com/Indyuce/bounty-hunters/wiki
 * Issue Tracker: https://github.com/Indyuce/bounty-hunters/issues
+[![](https://jitpack.io/v/WaffleBits/bounty-hunters.svg)](https://jitpack.io/#WaffleBits/bounty-hunters)
 
 **Maven Integration**
 ```
