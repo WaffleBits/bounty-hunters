@@ -32,5 +32,18 @@
         <maven.compiler.target>16</maven.compiler.target>
         <revision>2.4.1</revision>
     </properties>
+         
+	<repositories>
+		<repository>
+		    <id>jitpack.io</id>
+		    <url>https://jitpack.io</url>
+		</repository>
+	</repositories>
+         
+	<dependency>
+	    <groupId>com.github.Indyuce</groupId>
+	    <artifactId>bounty-hunters</artifactId>
+	    <version>master-2082684817-1</version>
+	</dependency>
 
 </project>
